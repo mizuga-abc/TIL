@@ -33,3 +33,28 @@ name = "二太郎"
 print(name)
 
 
+#変数の文字列をコピー
+
+pokemon = "メタモン"
+metamon = pokemon
+
+print(metamon)
+
+
+#文字の結合
+print("明日は"+"カレー")
+
+
+
+#変数を定義、文字の結合と代入、出力
+tommorow_dinner = "明日は"+"カレー"
+print(tommorow_dinner)
+
+
+
+#printの中で文字列と結合させる
+pokemon = "メタモン"
+metamon = pokemon
+
+print(metamon + "捕まえた")
+
