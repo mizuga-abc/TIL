@@ -10,6 +10,7 @@
 >sudo tail /var/log/messages
 
 コマンド実行例
+
 ![Alt text](<スクリーンショット 2024-02-29 17.41.49.png>)
 
 ![Alt text](<スクリーンショット 2024-02-29 17.43.56.png>)
